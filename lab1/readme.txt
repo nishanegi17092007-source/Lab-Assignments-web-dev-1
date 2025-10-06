@@ -1,1 +1,7 @@
-In this project , we have used basic html create our portfolio website with sections like about , projects and contact.We have used senamatic html tags like header , main, nav, section,and footer. In the about section we have add an image and given a description of oursleves  in p tag. In projects section we have used an unordered list to describe the projects and added a table using table tag that include the skill and level main heading. In contact section we have made a form using form tag and in form we have included name label with input type text which means it will only accept alphabetical values and in email label we have used input type email  which will only accept email and then we have textarea which provide space for user to give feedbacks or leave any message. At last, we have given an input of type submit which works like a submit button in form. 
+In this project , we have used basic html create our portfolio website with sections like about , projects and contact.We have used senamatic html tags like header , 
+main, nav, section,and footer. In the about section we have add an image and given a description of oursleves  in p tag. In projects section we have used an 
+unordered list to describe the projects and added a table using table tag that include the skill and level main heading. In contact section we have made a form using
+form tag and in form we have included name label with input type text which means it will only accept alphabetical values and in email label we have used input type
+email  which will only accept email and then we have textarea which provide space for user to give feedbacks or leave any message. At last, we have given an input of
+type submit which works like a submit button in form. 
+
